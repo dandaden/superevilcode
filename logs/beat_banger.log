@@ -1,0 +1,44 @@
+Godot Engine v3.3.2.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+(00:43:48) Loading game data
+getting arguments
+(00:43:48) OS Name : Windows
+(00:43:48) Game Version : 1.311
+(00:43:48) Looking for : C:/Users/bowen/OneDrive/Desktop/BeatBanging/data
+(00:43:48) Data loaded succesfully
+(00:43:52) Changed scene to res://01_scenes/00_Intro/Warning.tscn
+(00:43:52) Saving game data
+(00:43:54) Changed scene to res://01_scenes/01_Menu/Menu.tscn
+(00:43:54) Saving game data
+(00:43:54) Loading game data
+Checking for updates
+(00:43:54) ----- Main menu loaded
+(00:43:54) Loading levels from /Data/
+(00:43:54) Located: /Data/00_judy
+(00:43:54) Located: /Data/01_toriel
+(00:43:54) Located: /Data/02_yoshi
+(00:43:54) Located: /Data/03_jack
+
+(00:43:54) Running on Beat Banger v1.311
+(00:43:56) Changed scene to res://01_scenes/01_Menu/Mod.tscn
+(00:43:56) Saving game data
+(00:43:56) Loading levels from mods/
+Asriel and Toriel's Dirty Secret
+Asriel Toriel BJ
+J Murder Drone with dialogs
+J_Murder_Drone_Human_Pov
+(00:43:58) Changed scene to res://01_scenes/01_Menu/Menu.tscn
+(00:43:58) Saving game data
+(00:43:58) Loading game data
+Checking for updates
+(00:43:58) ----- Main menu loaded
+(00:43:58) Loading levels from /Data/
+(00:43:58) Located: /Data/00_judy
+(00:43:58) Located: /Data/01_toriel
+(00:43:58) Located: /Data/02_yoshi
+(00:43:58) Located: /Data/03_jack
+
+(00:43:58) Running on Beat Banger v1.311
+(00:43:59) Saving game data

@@ -1,0 +1,20 @@
+Godot Engine v3.3.2.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+(00:39:38) Loading game data
+getting arguments
+(00:39:38) OS Name : Windows
+(00:39:38) Game Version : 1.311
+(00:39:38) Looking for : C:/Users/bowen/OneDrive/Desktop/BeatBanging/data
+(00:39:38) Could NOT find data directory
+(00:39:42) Changed scene to res://01_scenes/00_Intro/Warning.tscn
+(00:39:42) Saving game data
+(00:39:45) Changed scene to res://01_scenes/01_Menu/Menu.tscn
+(00:39:45) Saving game data
+(00:39:45) Loading game data
+Checking for updates
+(00:39:45) ----- Main menu loaded
+(00:39:45) Loading levels from /Data/
+(00:39:45) Running on Beat Banger v1.311
+(00:39:47) Saving game data

@@ -1,0 +1,88 @@
+Godot Engine v3.3.2.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+(00:40:33) Loading game data
+getting arguments
+(00:40:33) OS Name : Windows
+(00:40:33) Game Version : 1.311
+(00:40:33) Looking for : C:/Users/bowen/OneDrive/Desktop/BeatBanging/data
+(00:40:33) Data loaded succesfully
+(00:40:35) Changed scene to res://01_scenes/00_Intro/Warning.tscn
+(00:40:35) Saving game data
+(00:40:36) Changed scene to res://01_scenes/01_Menu/Menu.tscn
+(00:40:36) Saving game data
+(00:40:36) Loading game data
+Checking for updates
+(00:40:36) ----- Main menu loaded
+(00:40:36) Loading levels from /Data/
+
+(00:40:37) Running on Beat Banger v1.311
+(00:40:38) Changed scene to res://01_scenes/01_Menu/Mod.tscn
+(00:40:38) Saving game data
+(00:40:38) Loading levels from mods/
+(00:40:41) Changed scene to res://01_scenes/07_Mod_Browser/mod_browser.tscn
+(00:40:41) Saving game data
+[KomDog]
+[[Control:1813]]
+KomDog
+(00:40:43) Changed scene to res://01_scenes/06_Download/download_console.tscn
+(00:40:43) Saving game data
+Creating `KomDog` folder
+21
+{bucket:bbmods, name:KomDog/anims/behind_fuck.png}
+{bucket:bbmods, name:KomDog/anims/behind_prod.png}
+{bucket:bbmods, name:KomDog/anims/cum.png}
+{bucket:bbmods, name:KomDog/anims/deep_succ.png}
+{bucket:bbmods, name:KomDog/anims/deep_succ_cum.png}
+{bucket:bbmods, name:KomDog/anims/face_prod.png}
+{bucket:bbmods, name:KomDog/anims/front.png}
+{bucket:bbmods, name:KomDog/anims/front_cum.png}
+{bucket:bbmods, name:KomDog/anims/fx/cum_fx.png}
+{bucket:bbmods, name:KomDog/chart.cfg}
+{bucket:bbmods, name:KomDog/meta.cfg}
+{bucket:bbmods, name:KomDog/sfx/break.ogg}
+{bucket:bbmods, name:KomDog/sfx/cum.ogg}
+{bucket:bbmods, name:KomDog/sfx/game_over.ogg}
+{bucket:bbmods, name:KomDog/sfx/gulp2.ogg}
+{bucket:bbmods, name:KomDog/sfx/gulp3.ogg}
+{bucket:bbmods, name:KomDog/sfx/smack.ogg}
+{bucket:bbmods, name:KomDog/sfx/wetslap.ogg}
+{bucket:bbmods, name:KomDog/songs/play.ogg}
+{bucket:bbmods, name:KomDog/textures/pattern.png}
+{bucket:bbmods, name:KomDog/thumb.png}
+200 : Succesfully Downloaded KomDog/sfx/game_over.ogg
+200 : Succesfully Downloaded KomDog/sfx/gulp3.ogg
+200 : Succesfully Downloaded KomDog/chart.cfg
+200 : Succesfully Downloaded KomDog/meta.cfg
+200 : Succesfully Downloaded KomDog/sfx/break.ogg
+200 : Succesfully Downloaded KomDog/sfx/wetslap.ogg
+200 : Succesfully Downloaded KomDog/anims/behind_prod.png
+200 : Succesfully Downloaded KomDog/textures/pattern.png
+200 : Succesfully Downloaded KomDog/thumb.png
+200 : Succesfully Downloaded KomDog/sfx/gulp2.ogg
+200 : Succesfully Downloaded KomDog/sfx/smack.ogg
+200 : Succesfully Downloaded KomDog/anims/cum.png
+200 : Succesfully Downloaded KomDog/anims/fx/cum_fx.png
+200 : Succesfully Downloaded KomDog/anims/behind_fuck.png
+200 : Succesfully Downloaded KomDog/anims/deep_succ_cum.png
+200 : Succesfully Downloaded KomDog/anims/face_prod.png
+200 : Succesfully Downloaded KomDog/anims/front.png
+200 : Succesfully Downloaded KomDog/sfx/cum.ogg
+200 : Succesfully Downloaded KomDog/anims/deep_succ.png
+200 : Succesfully Downloaded KomDog/anims/front_cum.png
+200 : Succesfully Downloaded KomDog/songs/play.ogg
+Download Complete...
+(00:40:46) Changed scene to res://01_scenes/01_Menu/Mod.tscn
+(00:40:46) Loading levels from mods/
+KomDog
+(00:40:48) Changed scene to res://01_scenes/02_Game/Game.tscn
+(00:40:48) Saving game data
+(00:40:48) ----- Starting level 'KomDog' on 'EASY'
+(00:40:48) Searching KomDog for cfg file
+(00:40:48) Found config file
+No background found, Falling back to default
+(00:40:48) Error loading loop sound fx (initial_data)
+(00:40:48) No voice bank found
+(00:40:48) Initiliazing game data
+(00:40:49) Saving game data

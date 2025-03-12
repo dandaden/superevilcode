@@ -1,0 +1,205 @@
+Godot Engine v4.3.dev5.official.89f70e98d - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 556.12 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1660 SUPER
+
+[92mINFO[39m [color=#ebddcc]12:43:19[39m OS Name : Windows[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Game Version : 40[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Dev Snapshot : 24w31d[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Screen Resolution : (1920, 1080)[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Loading User Settings...[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Validating Keybinds...[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Loading Keybinds...[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Setting Stat 801 to 2[0m
+[92mINFO[39m [color=#ebddcc]12:43:19[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:43:29[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[91mERROR[39m [color=#ebddcc]12:43:30[39m No acts available[0m
+[92mINFO[39m [color=#ebddcc]12:43:30[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:43:30[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:43:30[39m Saving Game[0m
+[<CompressedTexture2D#-9223371916562134680>]
+[92mINFO[39m [color=#ebddcc]12:43:31[39m Loading: [color=#95B]scenes/level_select.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:43:31[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:43:31[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:43:31[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:43:31[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:43:33[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:43:33[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/data/bb_vol_1/cathy_e1/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:43:36[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:43:37[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:43:37[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:43:38[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:43:38[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:43:38[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:43:38[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:43:41[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Setting Stat 802 to 1[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Setting Stat 807 to 772[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Setting Stat 808 to 87[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Setting Stat 806 to 146[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Accuracy: 0.95187165775401[0m
+[92mINFO[39m [color=#ebddcc]12:48:44[39m Saving Game[0m
+ERROR: Found the key outside the animation range. Consider using the clean-up option in AnimationTrackEditor to fix it.
+   at: _find (scene/resources/animation.cpp:2378)
+[92mINFO[39m [color=#ebddcc]12:48:50[39m Loading: [color=#95B]scenes/level_select.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:48:51[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:48:51[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:48:51[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:48:55[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:48:55[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/data/bb_vol_1/cathy_e1/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:48:57[39m Starting Handsfree...[0m
+[92mINFO[39m [color=#ebddcc]12:48:57[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:48:58[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:48:58[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:48:59[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:48:59[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:48:59[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:48:59[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:49:02[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:14[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:14[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:49:14[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:49:14[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:49:14[39m Saving Game[0m
+[<CompressedTexture2D#-9223371185897600686>, <CompressedTexture2D#-9223371185897600686>]
+[92mINFO[39m [color=#ebddcc]12:49:16[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:18[39m Loading: [color=#95B]scenes/Gallery/gallery.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:19[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:19[39m Loading: [color=#95B]scenes/theater.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:21[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:49:23[39m Loading: [color=#95B]scenes/scene_viewer.tscn[39m[0m
+USER ERROR: Node not found: "Character/CharacterSound" (relative to "/root/SceneViewer").
+   at: get_node (scene/main/node.cpp:1723)
+[92mINFO[39m [color=#ebddcc]12:49:23[39m Fetching Acts[0m
+USER ERROR: Index p_frame = 6 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 8 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 10 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 13 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 15 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 17 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 19 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 21 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 23 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 25 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 27 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 29 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 31 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 34 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 10 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 13 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 15 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 17 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 19 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 21 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 23 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 25 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 27 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 29 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 31 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 34 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 36 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 38 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 40 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 42 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 44 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 46 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 48 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 50 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 52 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 55 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 57 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 59 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 48 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 50 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 52 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 55 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 57 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 59 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 21 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 23 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 25 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 27 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 29 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 31 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 34 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 36 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 38 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 40 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 42 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 44 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 46 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 48 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 50 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 52 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 55 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 57 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)
+USER ERROR: Index p_frame = 59 is out of bounds (vframes * hframes = 6).
+   at: set_frame (scene/2d/sprite_2d.cpp:255)

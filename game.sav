@@ -1,0 +1,85 @@
+[save]
+
+data={
+"acts": [{
+"act_name": "Act I: Audition",
+"levels": [{
+"level_name": "Virgin Newbie",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 133,
+"score": 16520
+}]
+}, {
+"level_name": "She Doesnt Like You",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 280,
+"score": 20900
+}]
+}],
+"levels_unlocked": 2
+}, {
+"act_id": "abf73747b51bbbd37090085aa6ffda6c",
+"act_name": "The Audition",
+"levels": [{
+"level_id": "e78e519d3dcf76a942ab6d072da814e1",
+"level_name": "Show It To Me",
+"scores": [{
+"difficulty": "Normal",
+"grade": 5,
+"max_combo": 146,
+"score": 37840
+}]
+}],
+"levels_unlocked": 1
+}],
+"player": {
+"money": 390303,
+"shop_outfit": 0
+},
+"stats": [{
+"enum": 800,
+"value": 0
+}, {
+"enum": 801,
+"value": 2
+}, {
+"enum": 807,
+"value": 772
+}, {
+"enum": 808,
+"value": 87
+}, {
+"enum": 805,
+"value": 4
+}, {
+"enum": 802,
+"value": 1
+}, {
+"enum": 806,
+"value": 146
+}],
+"unlocked_achievements": [1015, 1001],
+"unlocked_items": [402, 600, 400, 101, 102, 401, 403, 315, 314, 313, 312, 310, 309, 308, 307, 305, 304, 303, 302, 300, 306, 601, 1101]
+}
+
+[mods]
+
+data={
+"acts": [{
+"act_name": "Toriel",
+"levels": [{
+"level_name": "She Doesn't Like You",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 265,
+"score": 12265
+}]
+}],
+"levels_unlocked": 1
+}]
+}

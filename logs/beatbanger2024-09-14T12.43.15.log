@@ -1,0 +1,529 @@
+Godot Engine v4.3.dev5.official.89f70e98d - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 556.12 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1660 SUPER
+
+[92mINFO[39m [color=#ebddcc]12:20:59[39m OS Name : Windows[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Game Version : 40[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Dev Snapshot : 24w31d[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Screen Resolution : (1920, 1080)[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Loading User Settings...[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Validating Keybinds...[0m
+[93mWARN[39m [color=#ebddcc]12:20:59[39m Keybinds Invalid! Loading Deafults...[0m
+[92mINFO[39m [color=#ebddcc]12:20:59[39m Saving Keybinds[0m
+[92mINFO[39m [color=#ebddcc]12:21:00[39m Setting Stat 801 to 1[0m
+[92mINFO[39m [color=#ebddcc]12:21:00[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:21:50[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[91mERROR[39m [color=#ebddcc]12:21:51[39m No acts available[0m
+[92mINFO[39m [color=#ebddcc]12:21:51[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:21:51[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:21:51[39m Saving Game[0m
+[<CompressedTexture2D#-9223371917635876502>]
+[92mINFO[39m [color=#ebddcc]12:21:53[39m Loading: [color=#95B]scenes/level_select.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:21:53[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:21:53[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:21:53[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:21:53[39m Fetching Acts[0m
+[91mERROR[39m [color=#ebddcc]12:22:00[39m Could Not Load: asset.cfg[0m
+[91mERROR[39m [color=#ebddcc]12:22:00[39m Could Not Load: asset.cfg[0m
+[91mERROR[39m [color=#ebddcc]12:22:00[39m Could Not Load: asset.cfg[0m
+[91mERROR[39m [color=#ebddcc]12:22:00[39m Could Not Load: asset.cfg[0m
+[93mWARN[39m [color=#ebddcc]12:22:03[39m No items in menu at LevelMenu[0m
+[93mWARN[39m [color=#ebddcc]12:22:04[39m No items in menu at LevelMenu[0m
+[93mWARN[39m [color=#ebddcc]12:22:04[39m No items in menu at LevelMenu[0m
+[91mERROR[39m [color=#ebddcc]12:22:05[39m Could Not Load: asset.cfg[0m
+[91mERROR[39m [color=#ebddcc]12:22:05[39m Could Not Load: asset.cfg[0m
+[91mERROR[39m [color=#ebddcc]12:22:05[39m Could Not Load: asset.cfg[0m
+[91mERROR[39m [color=#ebddcc]12:22:05[39m Could Not Load: asset.cfg[0m
+[92mINFO[39m [color=#ebddcc]12:22:21[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:22:21[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:22:21[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:22:21[39m Saving Game[0m
+[<CompressedTexture2D#-9223371790447801726>]
+[92mINFO[39m [color=#ebddcc]12:22:22[39m Loading: [color=#95B]scenes/mod_packs.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:22:24[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:22:25[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:22:25[39m Setting up modpacks...[0m
+[93mWARN[39m [color=#ebddcc]12:22:25[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:22:27[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:22:53[39m Downloading https://bbooru.fun/data/posts/file-uploads/1645/1645_There's an uproar - Jaiden's mom.zip[0m
+[92mINFO[39m [color=#ebddcc]12:22:58[39m Requesting Modpack...[0m
+[92mINFO[39m [color=#ebddcc]12:22:58[39m Converting Legacy Mod[0m
+[92mINFO[39m [color=#ebddcc]12:22:58[39m Download Complete...[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Keyframes[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Notes[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:22:59[39m Setting up modpacks...[0m
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223371574105600466>, "splash": <ImageTexture#-9223371574038491604> }], "thumb": <ImageTexture#-9223371573988159953> }
+[92mINFO[39m [color=#ebddcc]12:23:01[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:23:05[39m Downloading https://bbooru.fun/data/posts/file-uploads/1644/1644_There's an uproar - Jaiden.zip[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Requesting Modpack...[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Converting Legacy Mod[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Download Complete...[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Keyframes[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Notes[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Reformatting Config[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Setting up modpacks...[0m
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223371466127436208>, "splash": <ImageTexture#-9223371466060329777> }], "thumb": <ImageTexture#-9223371466009995717> }
+[92mINFO[39m [color=#ebddcc]12:23:12[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:23:29[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:23:52[39m Downloading https://bbooru.fun/data/posts/file-uploads/1622/1622_Zoe_Butt_Sex.zip[0m
+[92mINFO[39m [color=#ebddcc]12:24:16[39m Requesting Modpack...[0m
+[92mINFO[39m [color=#ebddcc]12:24:16[39m Download Complete...[0m
+[92mINFO[39m [color=#ebddcc]12:24:19[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:24:19[39m Setting up modpacks...[0m
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223371203698224533>, "splash": <ImageTexture#-9223371203631116319> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223371203530452229>, "splash": <ImageTexture#-9223371203463343064> }], "thumb": <ImageTexture#-9223371203413011125> }
+[92mINFO[39m [color=#ebddcc]12:24:22[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:24:22[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:24:22[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:24:22[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:24:22[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:24:33[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:24:33[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:24:34[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:24:34[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:24:35[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:24:35[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:24:36[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:24:36[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:24:36[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:24:36[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:24:38[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Game Over...[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Setting Stat 807 to 38[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Setting Stat 808 to 15[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Setting Stat 805 to 1[0m
+[92mINFO[39m [color=#ebddcc]12:25:09[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:25:12[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:25:13[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:25:13[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:25:13[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:25:14[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:25:15[39m Loading: [color=#95B]scenes/mod_packs.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:25:15[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:25:15[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:25:15[39m Setting up modpacks...[0m
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223370920700146753>, "splash": <ImageTexture#-9223370920633038210> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223370920532374400>, "splash": <ImageTexture#-9223370920465264360> }], "thumb": <ImageTexture#-9223370920414933564> }
+[92mINFO[39m [color=#ebddcc]12:25:16[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:25:16[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:25:16[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:25:16[39m Saving Game[0m
+[<CompressedTexture2D#-9223370910298271993>]
+[92mINFO[39m [color=#ebddcc]12:25:21[39m Loading: [color=#95B]scenes/mod_packs.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:25:21[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:25:21[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:25:21[39m Setting up modpacks...[0m
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223370881558900276>, "splash": <ImageTexture#-9223370881491791019> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223370881391128424>, "splash": <ImageTexture#-9223370881324020817> }], "thumb": <ImageTexture#-9223370881273689694> }
+[92mINFO[39m [color=#ebddcc]12:25:21[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:25:25[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:25:33[39m Sorting mods...[0m
+[92mINFO[39m [color=#ebddcc]12:25:33[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:25:37[39m Querying Mods...[0m
+[92mINFO[39m [color=#ebddcc]12:25:41[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:25:41[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:25:41[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:25:41[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:25:41[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:25:53[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:25:53[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:25:54[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:25:55[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:25:55[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:25:56[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:25:56[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:25:56[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:25:56[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:25:59[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:26:08[39m Loading User Settings...[0m
+[92mINFO[39m [color=#ebddcc]12:26:27[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:26:27[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:26:27[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:26:27[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:26:27[39m Saving Game[0m
+[<CompressedTexture2D#-9223370486237358771>]
+[92mINFO[39m [color=#ebddcc]12:26:30[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:26:35[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:26:35[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:26:35[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:26:35[39m Saving Game[0m
+[<CompressedTexture2D#-9223370443388350357>]
+[92mINFO[39m [color=#ebddcc]12:26:37[39m Loading: [color=#95B]scenes/Shop/shop.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:26:45[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:27:07[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:07[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:27:07[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:27:07[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:27:07[39m Saving Game[0m
+[<CompressedTexture2D#-9223370218691094773>]
+[92mINFO[39m [color=#ebddcc]12:27:08[39m Loading: [color=#95B]scenes/Shop/shop.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:12[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:12[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:27:12[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:27:12[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:27:12[39m Saving Game[0m
+[<CompressedTexture2D#-9223370164903341730>]
+[92mINFO[39m [color=#ebddcc]12:27:13[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:15[39m Loading: [color=#95B]scenes/Collection/Collection.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:16[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:17[39m Loading: [color=#95B]scenes/Collection/Collection.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:17[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:18[39m Loading: [color=#95B]scenes/scene_viewer.tscn[39m[0m
+USER ERROR: Node not found: "Character/CharacterSound" (relative to "/root/SceneViewer").
+   at: get_node (scene/main/node.cpp:1723)
+[92mINFO[39m [color=#ebddcc]12:27:18[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:27:39[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:40[39m Loading: [color=#95B]scenes/Achievements/achievements.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:42[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:45[39m Loading: [color=#95B]scenes/theater.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:49[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:27:50[39m Loading: [color=#95B]scenes/Gallery/gallery.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:04[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:04[39m Loading: [color=#95B]scenes/sound_test.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:07[39m Loading: [color=#95B]scenes/extras.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:07[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:08[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:28:08[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:28:08[39m Saving Game[0m
+[<CompressedTexture2D#-9223369882341468463>]
+[92mINFO[39m [color=#ebddcc]12:28:10[39m Loading: [color=#95B]scenes/mod_packs.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:28:10[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:28:10[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:28:10[39m Setting up modpacks...[0m
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223369850011775410>, "splash": <ImageTexture#-9223369849944665560> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223369849844001875>, "splash": <ImageTexture#-9223369849776893283> }], "thumb": <ImageTexture#-9223369849726561678> }
+[92mINFO[39m [color=#ebddcc]12:28:12[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:28:12[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:28:12[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:28:12[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:28:12[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:28:13[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:28:13[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:14[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:28:15[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:28:15[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:28:16[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:28:16[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:28:16[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:28:16[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:28:18[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:30:02[39m Loading User Settings...[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Game Over...[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Setting Stat 807 to 90[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Setting Stat 808 to 26[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Setting Stat 805 to 2[0m
+[92mINFO[39m [color=#ebddcc]12:30:43[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:30:49[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:30:50[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:30:50[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:30:50[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:30:50[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:31:07[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:31:07[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:31:08[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:31:09[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:31:09[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:31:10[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:31:10[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:31:10[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:31:10[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:31:12[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:31:46[39m Validating Keybinds...[0m
+[92mINFO[39m [color=#ebddcc]12:31:46[39m Loading Keybinds...[0m
+[92mINFO[39m [color=#ebddcc]12:32:04[39m Saving Keybinds[0m
+[92mINFO[39m [color=#ebddcc]12:32:06[39m Saving Keybinds[0m
+[92mINFO[39m [color=#ebddcc]12:32:19[39m Saving Keybinds[0m
+[92mINFO[39m [color=#ebddcc]12:32:21[39m Saving Keybinds[0m
+[92mINFO[39m [color=#ebddcc]12:32:32[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:32:32[39m Resetting Game Stats...[0m
+[93mWARN[39m [color=#ebddcc]12:32:33[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:32:33[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:32:33[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:32:33[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:32:40[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:32:40[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:32:41[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:32:42[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:32:42[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:32:43[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:32:43[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:32:43[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:32:43[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:32:45[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Game Over...[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Setting Stat 807 to 117[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Setting Stat 808 to 34[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Setting Stat 805 to 3[0m
+[92mINFO[39m [color=#ebddcc]12:33:08[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:33:29[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:33:30[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:33:30[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:33:30[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:33:30[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:33:35[39m Setting Up Difficulty Menu...[0m
+[93mWARN[39m [color=#ebddcc]12:33:35[39m Image not found: [91mC:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me/images/[39m[0m
+[92mINFO[39m [color=#ebddcc]12:33:36[39m Loading: [color=#95B]scenes/loading.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:33:37[39m Validating act_id[0m
+[92mINFO[39m [color=#ebddcc]12:33:37[39m Resetting Game Stats...[0m
+[92mINFO[39m [color=#ebddcc]12:33:38[39m Loading Level Configuration Files...[0m
+[92mINFO[39m [color=#ebddcc]12:33:38[39m Checking Climax Video...[0m
+[93mWARN[39m [color=#ebddcc]12:33:38[39m WARN Don't know how to handle climax format: [0m
+[92mINFO[39m [color=#ebddcc]12:33:38[39m Loading Game Assets...[0m
+[92mINFO[39m [color=#ebddcc]12:33:41[39m Loading: [color=#95B]scenes/game.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Game Over...[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Setting Stat 807 to 238[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Setting Stat 808 to 60[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Setting Stat 805 to 4[0m
+[92mINFO[39m [color=#ebddcc]12:34:52[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:36:30[39m Loading: [color=#95B]scenes/mod_levels.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:36:31[39m No items in menu at Levels[0m
+[92mINFO[39m [color=#ebddcc]12:36:31[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:36:31[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:36:31[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:36:32[39m Loading: [color=#95B]scenes/mod_packs.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:36:33[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:36:33[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:36:33[39m Setting up modpacks...[0m
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368623496620334>, "splash": <ImageTexture#-9223368623429510674> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368623328851319>, "splash": <ImageTexture#-9223368623261739372> }], "thumb": <ImageTexture#-9223368623211408353> }
+[92mINFO[39m [color=#ebddcc]12:36:47[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:36:48[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:36:48[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:36:48[39m Saving Game[0m
+[<CompressedTexture2D#-9223368602726425936>]
+[92mINFO[39m [color=#ebddcc]12:37:10[39m Loading: [color=#95B]scenes/level_select.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:37:10[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:37:10[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:37:10[39m Saving Game[0m
+[92mINFO[39m [color=#ebddcc]12:37:11[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:37:12[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:37:12[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:37:12[39m Saving Game[0m
+[<CompressedTexture2D#-9223368499798206808>]
+[92mINFO[39m [color=#ebddcc]12:37:12[39m Loading: [color=#95B]scenes/mod_packs.tscn[39m[0m
+[93mWARN[39m [color=#ebddcc]12:37:13[39m No items in menu at PackMenu[0m
+[92mINFO[39m [color=#ebddcc]12:37:13[39m Fetching Acts[0m
+[92mINFO[39m [color=#ebddcc]12:37:13[39m Setting up modpacks...[0m
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom/1645_There%27s%20an%20uproar%20-%20Jaiden%27s%20mom", "thumb": <ImageTexture#-9223368458274597475>, "splash": <ImageTexture#-9223368458207489376> }], "thumb": <ImageTexture#-9223368458157156422> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Converted From Legacy", "act_index": 0, "act_legacy": true, "act_name": "There\'s an uproar - Jaiden", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden", "levels": [{ "character": "character", "level_index": 0, "level_name": "There\'s an uproar - Jaiden", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1644_There%27s%20an%20uproar%20-%20Jaiden/1644_There%27s%20an%20uproar%20-%20Jaiden", "thumb": <ImageTexture#-9223368458559811695>, "splash": <ImageTexture#-9223368458492701872> }], "thumb": <ImageTexture#-9223368458442367496> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+{ "act_description": "Finally, sex with Zoe Monroe (Komdog)", "act_id": "2ff22b766f8dfe476358ab8abe11da79", "act_index": 0, "act_name": "Zoe, But(t) Sex", "path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex", "levels": [{ "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "Show It To Me", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/Show It To Me", "thumb": <ImageTexture#-9223368459012794343>, "splash": <ImageTexture#-9223368458945686429> }, { "character": "Zoe Monroe", "color": [0.5, 0.5, 0.5], "level_id": "e78e519d3dcf76a942ab6d072da814e1", "level_index": 0, "level_name": "She Doesn\'t Like You", "level_path": "C:/Users/bowen/Downloads/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/Beat.Banger.v4.0.Hotfix.Uncensored/mods/1622_Zoe_Butt_Sex/XXX - Busty Bird", "thumb": <ImageTexture#-9223368458845022359>, "splash": <ImageTexture#-9223368458777915686> }], "thumb": <ImageTexture#-9223368458727581763> }
+[92mINFO[39m [color=#ebddcc]12:37:22[39m Loading: [color=#95B]scenes/main_menu.tscn[39m[0m
+[92mINFO[39m [color=#ebddcc]12:37:22[39m Loading Save Data...[0m
+[92mINFO[39m [color=#ebddcc]12:37:22[39m Validating Save...[0m
+[92mINFO[39m [color=#ebddcc]12:37:22[39m Saving Game[0m
+[<CompressedTexture2D#-9223368420290980016>]
+ERROR: 71 RID allocations of type 'N5GLES37TextureE' were leaked at exit.
+USER ERROR: Texture with GL ID of 267: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 268: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 269: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 271: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 272: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 273: leaked 11058620 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 280: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 286: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 287: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 288: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 289: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 290: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 291: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 296: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 297: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 298: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 301: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 302: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 303: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 306: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 307: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 308: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 309: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 310: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 154: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 155: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 159: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 160: leaked 294911056 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 161: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 211: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 217: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 218: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 219: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 220: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 221: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 222: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 223: leaked 11058620 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 224: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 225: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 226: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 227: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 228: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 229: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 230: leaked 21844 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 231: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 232: leaked 21844 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 233: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 234: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 235: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 236: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 237: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 238: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 239: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 240: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 241: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 242: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 243: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 244: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 245: leaked 29490820 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 246: leaked 21844 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 158: leaked 634620 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 162: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 167: leaked 853260 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 168: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 170: leaked 634620 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 173: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 177: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 178: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 179: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 180: leaked 4915052 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER ERROR: Texture with GL ID of 181: leaked 1398100 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:79)
+USER WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2295)
+USER ERROR: 31 resources still in use at exit (run with --verbose for details).
+   at: clear (core/io/resource.cpp:597)

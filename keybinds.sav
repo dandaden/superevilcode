@@ -1,0 +1,27 @@
+[keybinds]
+
+registered_keys=[ {
+"action": "key_0",
+"scancode": 90,
+"string": "Z"
+}, {
+"action": "key_1",
+"scancode": 88,
+"string": "X"
+}, {
+"action": "key_2",
+"scancode": 67,
+"string": "C"
+}, {
+"action": "key_3",
+"scancode": 86,
+"string": "V"
+}, {
+"action": "key_4",
+"scancode": 82,
+"string": "R"
+}, {
+"action": "key_5",
+"scancode": 81,
+"string": "Q"
+} ]
